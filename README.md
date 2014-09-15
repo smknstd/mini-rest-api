@@ -1,4 +1,4 @@
-Even a [basic authentication is missing](http://en.wikipedia.org/wiki/Basic_access_authentication) !
+Even a [basic authentication](http://en.wikipedia.org/wiki/Basic_access_authentication) is missing !
 
 tested with curl:
 
